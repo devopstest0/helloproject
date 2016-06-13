@@ -6,8 +6,9 @@
 <link href="${resources}/css/core.css" rel="stylesheet">
 </head>
 <body>
-<h1>Devops Training Demo Application</h1>
- 
+<h1>Devops Training Demo App </h1>
+
+<p>Append URL with your name</p> 
 <p>Message : ${message}</p>	
 </body>
 </html>
