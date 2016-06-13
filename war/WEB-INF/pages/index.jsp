@@ -8,7 +8,6 @@
 <body>
 <h1>Devops Training Demo App </h1>
 
-<p>Append URL with your name</p> 
 <p>Message : ${message}</p>	
 </body>
 </html>
