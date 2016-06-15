@@ -6,7 +6,7 @@
 <link href="${resources}/css/core.css" rel="stylesheet">
 </head>
 <body>
-<h1>Devops Training Demo App | Demo Session </h1>
+<h1>Devops Training Demo App | Demo Session | I am in branch </h1>
 
 <p>Message : ${message}</p>	
 </body>
