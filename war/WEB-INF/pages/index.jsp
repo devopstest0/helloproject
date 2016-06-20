@@ -9,5 +9,8 @@
 <h1>Devops Training Demo App | Demo Session </h1>
 
 <p>Message : ${message}</p>	
+
+
+<p>Note : app is deployed using puppet </p>	
 </body>
 </html>
