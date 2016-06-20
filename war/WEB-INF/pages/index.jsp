@@ -11,6 +11,7 @@
 <p>Message : ${message}</p>	
 
 
-<p>Note : app is deployed using puppet </p>	
+<p>Note : App is deployed using PE </p>	
+
 </body>
 </html>
